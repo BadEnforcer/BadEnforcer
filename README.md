@@ -1,10 +1,11 @@
-# I am "Raj Dwivedi."
+# About Me
+- I am "Raj Dwivedi."
 
 - From Jhansi, India 🇮🇳.
 
 - Persuing Bachelor's in "Data Science"
 
-# My Techcnical Skills :
+# My Techcnical Skills
 
 - 2 years of advancr experience in Python.
 
@@ -12,7 +13,7 @@
 
 - You can view the progress of my language courses in their respective repositories.
 
-# 📬 Contact info :
+# 📬 Contact info
 
 - Social media - @badenforcer on all major platforms.
 
