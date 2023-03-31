@@ -1,16 +1,16 @@
-I am "Raj Dwivedi."
+# I am "Raj Dwivedi."
 
 - From Jhansi, India 🇮🇳.
 
 - Persuing Bachelor's in "Data Science"
 
-#My Techcnical Skills :
+# My Techcnical Skills :
 
 - 2 years of advancr experience in Python.
 
-I am also learning "C" & JavaScript.
+- I am also learning "C" & JavaScript.
 
-You can view the progress of my language courses in their respective repositories.
+- You can view the progress of my language courses in their respective repositories.
 
 # 📬 Contact info :
 
