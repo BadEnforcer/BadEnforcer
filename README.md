@@ -4,7 +4,7 @@ I am "Raj Dwivedi."
 
 - Persuing Bachelor's in "Data Science"
 
-# My Techcnical Skills :
+#My Techcnical Skills :
 
 - 2 years of advancr experience in Python.
 
